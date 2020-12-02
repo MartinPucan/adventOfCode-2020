@@ -12,4 +12,19 @@ I compared the result with the value of 2020, which was determined in the assign
 
 After returning both values, I multiplied these values and submitted the result.
 
+#### used components 
+* split() - because of given input
+1. 2 for loops and condition
+2. 3 for loops and condition
+
 ## 2 day
+
+used functions 
+* split()
+* replace()
+* new RegExp(value, 'g')
+* match()
+
+* split()
+* replace()
+* charAt()
