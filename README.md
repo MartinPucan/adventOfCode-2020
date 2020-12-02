@@ -24,7 +24,4 @@ used functions
 * replace()
 * new RegExp(value, 'g')
 * match()
-
-* split()
-* replace()
 * charAt()
