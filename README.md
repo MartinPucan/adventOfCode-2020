@@ -11,3 +11,5 @@ Next, I created a cycle in a cycle and gradually added all possible pairs.
 I compared the result with the value of 2020, which was determined in the assignment. 
 
 After returning both values, I multiplied these values and submitted the result.
+
+## 2 day
