@@ -3,7 +3,7 @@ Solved tasks advent of code 2020
 
 Maybe will help this link for an elegant solutions [here](https://1loc.dev/) 
 
-## 1 day
+## 1st day
 I was given the task of finding the correct sum of 2 numbers in the array.
 
 Numbers were just strings, so I converted them to an array and parsed them into a float type.
@@ -19,7 +19,7 @@ After returning both values, I multiplied these values and submitted the result.
 1. 2 for loops and condition
 2. 3 for loops and condition
 
-## 2 day
+## 2nd day
 
 used functions 
 * split()
@@ -27,3 +27,11 @@ used functions
 * new RegExp(value, 'g')
 * match()
 * charAt()
+
+Solutions will be added asap. I will gradually add the first solution and the refactored solution.
+
+## 3rd day 
+
+Toboggan Trajectory 
+
+Traversing the field and checking if there is a tree on a certain index. Solution will be added asap.
